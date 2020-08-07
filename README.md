@@ -1,6 +1,7 @@
 # Ezequiel Oliveira
 
 ## Fala pessoal! 👋
+
 Sou apaixonado pela programação web.
 Estou estudando para me tornar um FullStack Developer :computer:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
