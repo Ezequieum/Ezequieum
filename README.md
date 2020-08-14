@@ -11,4 +11,3 @@ Estou estudando para me tornar um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-contato.ezequie15@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.ezequie15@gmail.com)](mailto:contato.ezequie15@gmail.com)
 
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
